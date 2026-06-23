@@ -4,6 +4,7 @@ This portfolio presents selected GIS, remote sensing and geohazard projects comp
 ## Featured Projects
 ### 1. Landsldie Remote Sensing Disseratation
 This dissertation investigates rainfall-induced landslides in the Sobaek Mountains, South Korea, using PlanetScope imagery, DEM-derived terrain variables and GIS-based spatial analysis.
+
 **Skills demonstrated**
 - Remote sensing interpretation
 - Landslide inventory digitisation
