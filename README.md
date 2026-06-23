@@ -77,4 +77,4 @@ Full visual portfolio: https://app.notion.com/p/Sungwon-Park-Geospatial-Science-
 ## Contact
 Email: sungwon1279@gmail.com  
 LinkedIn:  
-GitHub:
+GitHub: README.md
