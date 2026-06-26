@@ -1,8 +1,8 @@
-# geospatial Science Portfolio
+# Sungwon Park | Geospatial Science Portfolio
 I recently graduated with a BSc Geology degree from the University of Plymouth and will begin MSc Geospatial Sciences at UCL.
 This portfolio presents selected GIS, remote sensing and geohazard projects completed during my undergraduate degree. The projects demonstrate practical experience in ArcGIS Pro, ArcGIS StoryMaps, remote sensing, raster and vector analysis, DEM-derived terrain modelling, environmental suitability analysis and spatial data communication.
 ## Featured Projects
-### 1. Landsldie Remote Sensing Disseratation
+### 1. Landslide Remote Sensing Dissertation
 This dissertation investigates rainfall-induced landslides in the Sobaek Mountains, South Korea, using PlanetScope imagery, DEM-derived terrain variables and GIS-based spatial analysis.
 
 **Skills demonstrated**
@@ -66,15 +66,18 @@ This portfolio summarises the ArcGIS Pro tools and spatial analysis workflows ap
 - Cartography: map layout design and academic figure production
 
 ## Documents
+
+Selected project PDFs are available in the visual Notion portfolio or upon request.
+
 - Landslide Dissertation Summary PDF
 - LA Coastal Flood Exposure StoryMap Summary PDF
 - Dartmoor Wind Turbine Placement Report PDF
 - ArcGIS Pro Skills and Workflow Portfolio PDF
 
 ## Notion Portfolio
-Full visual portfolio: https://app.notion.com/p/Sungwon-Park-Geospatial-Science-Portfolio-37072b7d613c8094a32ac468d6b6d567?source=copy_link
+Full visual portfolio: [Notion Geospatial Science Portfolio](https://app.notion.com/p/Sungwon-Park-Geospatial-Science-Portfolio-37072b7d613c8094a32ac468d6b6d567?source=copy_link)
 
 ## Contact
-Email: sungwon1279@gmail.com  
-LinkedIn:  
-GitHub: README.md
+Email: [sungwon1279@gmail.com](mailto:sungwon1279@gmail.com)  
+LinkedIn: [Grace Park](LinkedIn URL)
+GitHub: [Grace1279](https://github.com/Grace1279)
