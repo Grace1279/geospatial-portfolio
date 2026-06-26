@@ -67,7 +67,7 @@ This portfolio summarises the ArcGIS Pro tools and spatial analysis workflows ap
 
 ## Documents
 
-Selected project PDFs are available in the visual Notion portfolio or upon request.
+Selected project PDFs are available through the visual Notion portfolio or upon request.
 
 - Landslide Dissertation Summary PDF
 - LA Coastal Flood Exposure StoryMap Summary PDF
@@ -78,6 +78,7 @@ Selected project PDFs are available in the visual Notion portfolio or upon reque
 Full visual portfolio: [Notion Geospatial Science Portfolio](https://app.notion.com/p/Sungwon-Park-Geospatial-Science-Portfolio-37072b7d613c8094a32ac468d6b6d567?source=copy_link)
 
 ## Contact
-Email: [sungwon1279@gmail.com](mailto:sungwon1279@gmail.com)  
-LinkedIn: [Grace Park](LinkedIn URL)
-GitHub: [Grace1279](https://github.com/Grace1279)
+
+- Email: [sungwon1279@gmail.com](mailto:sungwon1279@gmail.com)
+- LinkedIn: [Grace Park](LinkedIn URL)
+- GitHub: [Grace1279](https://github.com/Grace1279)
