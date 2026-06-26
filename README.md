@@ -14,7 +14,7 @@ This dissertation investigates rainfall-induced landslides in the Sobaek Mountai
 - Susceptibility-related mapping
 - ArcGIS Pro workflow design
 
-**Outpouts**
+**Outputs**
 - Landslide inventory maps
 - DEM-derived terrain predictor maps
 - Sampling design maps
